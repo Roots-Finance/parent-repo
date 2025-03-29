@@ -1,0 +1,6 @@
+[submodule "backend-server"]
+	path = backend-server
+	url = https://github.com/Roots-Finance/backend-server.git
+[submodule "frontend-server"]
+	path = frontend-server
+	url = https://github.com/Roots-Finance/frontend-server.git
