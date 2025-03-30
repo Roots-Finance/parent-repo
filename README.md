@@ -18,7 +18,7 @@ To run both the frontend and backend server, run:
 ```bash
 ./run.sh
 ```
-However, environment variables must be set for both.
+However, environment variables must be set for both. Put the respective .env files in the root for each directory.
 
 
 ### Frontend .env
